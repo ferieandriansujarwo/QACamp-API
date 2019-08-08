@@ -16,7 +16,7 @@ Then("I should get user with id {string}") do |id|
 end
 
 Then("I should get user with name {string}") do |name|
-expect(@content[1]['name']).to eq name
+  expect(@content[1]['name']).to eq name
 end
 
 Then("I should get todos with title {string}") do |title|
