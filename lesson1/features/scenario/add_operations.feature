@@ -1,6 +1,6 @@
 Feature: Add Numbers
 
 Scenario: Additions
-    Given a number "5"
-    And number "3"
-    Then we should add them and have "8"
+    Given a number "1000"
+    And number "2000"
+    Then we should add them and have "3000"
