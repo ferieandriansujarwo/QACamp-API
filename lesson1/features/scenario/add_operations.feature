@@ -1,6 +1,6 @@
 Feature: Add Numbers
 
 Scenario: Additions
-    Given a number "5"
-    And number "3"
-    Then we should add them and have "8"
+    Given a number "4"
+    And number "2"
+    Then we should add them and have "6"
